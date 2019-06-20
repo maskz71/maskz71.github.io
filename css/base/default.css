@@ -1,8 +1,11 @@
 
 html {
-    color: #111111;
     line-height: 1.6;
     font-family: sans-serif;
+}
+
+body {
+    color: #FF0000;
 }
 
 

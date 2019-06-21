@@ -1,8 +1,12 @@
 
 
-fas-name {
+.fas-name {
     font-size: 3em;
     border: 1px;
+}
+
+input::placeholder {
+    color: #999999;
 }
 
 

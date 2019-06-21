@@ -1,12 +1,16 @@
 
 .header {
     background-color: #ff9100;
-    padding: 1em;
+    padding: 0.2em;
+}
+
+.header a:visited {
+    color: #FFFFFF;
 }
 
 .header-logo {
     color: #FFFFFF;
-    font-size: 3em;
+    font-size: 4em;
     font-weight: bold;
     text-shadow: 0.1em 0.1em 4px #999999;
 }

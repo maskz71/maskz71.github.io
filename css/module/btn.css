@@ -2,10 +2,11 @@
 .btn {
     display: inline-block;
     padding: 0.6em 1em;
-    border: 2px solid #cccccc;
+    border: 0.2em solid #ffffff;
     border-radius: 2em;
     box-shadow: 3px 4px rgba(51, 51, 51, 0.15);
     text-decoration: none;
+    font-size: 2em;
     color: inherit;
     font-weight: bold;
     cursor: pointer;

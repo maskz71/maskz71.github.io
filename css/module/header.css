@@ -5,6 +5,10 @@
     background-color: #ff9100;
 }
 
+.header-item:nth-child(1) {
+    margin-right: auto;
+}
+
 .header a {
     color: #FFFFFF;
 }

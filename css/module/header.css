@@ -21,7 +21,7 @@
     margin: 0;
     color: #FFFFFF;
     font-weight: bold;
-    text-shadow: 0.1em 0.1em 4px #999999;
+    text-shadow: 0.1em 0.1em 4px rgba(00, 00, 00, 0.4)
 }
 
 

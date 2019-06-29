@@ -13,10 +13,16 @@
     color: #333333;
 }
 
+
 .top-menu-btn {
     width: 4em;
     height: 4em;
     display: inline-block;
+    display: -webkit-inline-box;
+    justify-content: center;
+    -webkit-justyfy-content: center;
+    align-items: center;
+    -webkit-align-items: center;
     padding: 0.5em;
     background-color: #ffffff;
     border: 0.2em solid #ff9100;
@@ -28,11 +34,17 @@
     cursor: pointer;
 }
 
+
+
 .top-menu-btn-text {
-    width: 3em;
-    height: 3em;
-    display: table-cell;
-    vertical-align: middle;
+    width: 4em;
+    height: 4em;
+    display: flex;
+    display: -webkit-flex;
+    justify-content: center;
+    -webkit-justyfy-content: center;
+    align-items: center;
+    -webkit-align-items: center;
 }
 
 .top-menu-sum {
